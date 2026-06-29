@@ -1,34 +1,71 @@
-# 📊 Sales Analysis Dashboard (Excel)
+# 📊 Vrinda Store Sales Analysis Dashboard
 
-## Project Overview
-This project analyzes 12 months of sales data to identify revenue trends, top-performing products, customer segments, and regional performance using Microsoft Excel.
+## 📌 Project Overview
 
-## Tools Used
+This project analyzes Vrinda Store's 2022 sales performance using Microsoft Excel. An interactive dashboard was created to help stakeholders monitor sales trends, customer behavior, regional performance, and order status for better business decision-making.
+
+---
+
+## 🛠 Tools & Features
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Power Query
-- Conditional Formatting
 - Slicers
-- Dashboard Design
+- Timeline Filter
+- Conditional Formatting
+- Interactive Dashboard
 
-## Business Problem
-The objective was to help management understand sales performance and identify opportunities to increase revenue.
+---
 
-## Key Insights
-- Top product categories generated over 60% of total revenue.
-- Sales peaked during festive months.
-- West region achieved the highest sales.
-- Female customers contributed more revenue than male customers.
+## 📷 Dashboard Preview
 
-## Dashboard Preview
+![Dashboard](Dashboard.png)
 
-(Add your dashboard screenshot here)
+---
 
-## Skills Demonstrated
+## 📈 Business Questions Answered
+
+- Which months generated the highest sales?
+- Which sales channel contributed the most revenue?
+- Which states generated the highest sales?
+- What is the gender-wise sales distribution?
+- What percentage of orders were delivered, cancelled, returned, or refunded?
+- Which age group contributed the most orders?
+
+---
+
+## 🔍 Key Insights
+
+- Women contributed **64%** of total sales.
+- Amazon generated the highest number of orders (**35%**).
+- Maharashtra recorded the highest sales among all states.
+- Adults were the largest customer segment.
+- 92% of orders were successfully delivered.
+- Sales peaked during the first quarter of the year.
+
+---
+
+## 💼 Skills Demonstrated
+
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
 - Business Intelligence
-- KPI Reporting
-- Excel Automation
+- Data Visualization
+- Pivot Tables
+- Excel Reporting
+- KPI Analysis
+
+---
+
+## 🚀 Business Value
+
+This dashboard enables management to:
+
+- Monitor sales performance
+- Analyze customer demographics
+- Compare sales channels
+- Evaluate order fulfillment
+- Identify high-performing regions
+- Support data-driven business decisions
