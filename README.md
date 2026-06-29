@@ -2,17 +2,16 @@
 
 ## 📌 Project Overview
 
-This project analyzes Vrinda Store's 2022 sales performance using Microsoft Excel. An interactive dashboard was created to help stakeholders monitor sales trends, customer behavior, regional performance, and order status for better business decision-making.
+This project analyzes Vrinda Store's 2022 sales performance using Microsoft Excel. An interactive dashboard was created to help stakeholders monitor sales trends, customer demographics, order status, and regional performance for better business decision-making.
 
 ---
 
-## 🛠 Tools & Features
+## 🛠 Tools Used
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Timeline Filter
 - Conditional Formatting
 - Interactive Dashboard
 
@@ -24,25 +23,25 @@ This project analyzes Vrinda Store's 2022 sales performance using Microsoft Exce
 
 ---
 
-## 📈 Business Questions Answered
+## 📈 Dashboard Features
 
-- Which months generated the highest sales?
-- Which sales channel contributed the most revenue?
-- Which states generated the highest sales?
-- What is the gender-wise sales distribution?
-- What percentage of orders were delivered, cancelled, returned, or refunded?
-- Which age group contributed the most orders?
+- Orders vs Sales Analysis
+- Sales by Gender
+- Order Status Analysis
+- Top 10 States
+- Orders by Age & Gender
+- Orders by Sales Channel
+- Interactive Filters
 
 ---
 
-## 🔍 Key Insights
+## 💡 Key Insights
 
-- Women contributed **64%** of total sales.
-- Amazon generated the highest number of orders (**35%**).
-- Maharashtra recorded the highest sales among all states.
+- Women contributed approximately 64% of total sales.
+- Amazon generated the highest number of orders.
+- Maharashtra recorded the highest sales.
 - Adults were the largest customer segment.
-- 92% of orders were successfully delivered.
-- Sales peaked during the first quarter of the year.
+- More than 90% of orders were successfully delivered.
 
 ---
 
@@ -51,21 +50,7 @@ This project analyzes Vrinda Store's 2022 sales performance using Microsoft Exce
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
-- Business Intelligence
 - Data Visualization
+- Business Intelligence
 - Pivot Tables
 - Excel Reporting
-- KPI Analysis
-
----
-
-## 🚀 Business Value
-
-This dashboard enables management to:
-
-- Monitor sales performance
-- Analyze customer demographics
-- Compare sales channels
-- Evaluate order fulfillment
-- Identify high-performing regions
-- Support data-driven business decisions
